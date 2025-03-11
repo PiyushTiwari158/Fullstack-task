@@ -27,3 +27,26 @@ How It Works
 ✅ The server continuously sends animation data to the frontend.
 ✅ The frontend uses this data to display the gradient animation.
 ✅ When Stop is clicked, the server stops sending data and the animation stops.
+
+Setup and Installation
+1️⃣ Clone the repository
+git clone https://github.com/your-username/websocket-animation.git
+
+cd websocket-animation  
+2️⃣ Backend Setup
+cd backend
+npm install
+Install dependencies
+node server.js  
+
+3️⃣ Frontend Setup
+Navigate to the frontend folder:
+cd frontend  
+Install dependencies:
+npm install  
+Start the Vite development server:
+npm run dev  
+🚦 Usage
+Open http://localhost:5173
+Click Start to trigger the animation
+Click Stop to stop the animation

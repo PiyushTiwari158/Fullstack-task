@@ -1,4 +1,4 @@
-import "./style.css";
+import "./../../src/style.css";
 import AnimationApp from "./AnimationApp";
 
 function App() {

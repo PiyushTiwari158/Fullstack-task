@@ -30,8 +30,6 @@ How It Works
 
 Setup and Installation
 1️⃣ Clone the repository
-git clone https://github.com/your-username/websocket-animation.git
-
 cd websocket-animation  
 2️⃣ Backend Setup
 cd backend

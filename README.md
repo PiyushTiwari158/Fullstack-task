@@ -22,6 +22,3 @@ This is a real-time WebSocket-based animation app built with **React (Vite)** on
 - Node.js  
 - `ws` (WebSocket library)  
 
----
-
-## 📂 **Project Structure**  

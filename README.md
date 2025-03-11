@@ -22,3 +22,8 @@ This is a real-time WebSocket-based animation app built with **React (Vite)** on
 - Node.js  
 - `ws` (WebSocket library)  
 
+How It Works
+✅ The frontend sends a "Start" event to the WebSocket server when the Start button is clicked.
+✅ The server continuously sends animation data to the frontend.
+✅ The frontend uses this data to display the gradient animation.
+✅ When Stop is clicked, the server stops sending data and the animation stops.
